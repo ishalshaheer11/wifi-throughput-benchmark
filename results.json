@@ -1,0 +1,23 @@
+[
+  {
+    "bytes": 52428800,
+    "elapsed": 0.015,
+    "mbps": 27669.37,
+    "label": "localhost_baseline",
+    "client_mbps": 27119.14
+  },
+  {
+    "bytes": 52428800,
+    "elapsed": 0.022,
+    "mbps": 19203.35,
+    "label": "high_cpu_load",
+    "client_mbps": 18557.75
+  },
+  {
+    "bytes": 52428800,
+    "elapsed": 0.022,
+    "mbps": 19440.38,
+    "label": "stress_test",
+    "client_mbps": 18794.87
+  }
+]
